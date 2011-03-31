@@ -1,0 +1,3 @@
+Bump all the versions and update the descriptions, also add my e-mail and descritpion of work done in the spec files
+
+Fix myemboss.spec
